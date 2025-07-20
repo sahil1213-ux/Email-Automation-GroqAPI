@@ -2,11 +2,6 @@
 
 A Google Apps Script project that automates the extraction of freight forwarding data from emails, processes both text and image-based rate tables, and logs the data into Google Sheets.
 
-## Project Summary
-Built a Google Apps Script solution to automate the extraction of freight forwarding data from Gmail emails, leveraging Groq API for natural language processing and OCR.space for image-based rate table parsing, significantly reducing manual processing time for freight forwarding companies.
-Engineered a system to process complex multi-route rate tables (e.g., P.D.T Logistics format) with OCR and structured JSON output, integrating data into Google Sheets with dynamic sheet creation and custom UI menus for seamless single- and multi-route logging.
-Designed comprehensive error handling with retry logic for API failures, fallback Google Drive OCR, and detailed logging, ensuring reliable data extraction and processing for high-volume freight email workflows.
-
 ## Table of Contents
 
 - [Overview](#overview)
