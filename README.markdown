@@ -1,4 +1,4 @@
-# Gmail Freight Parser for Discord
+# Gmail Freight Parser
 
 A Google Apps Script project that automates the extraction of freight forwarding data from emails, processes both text and image-based rate tables, and logs the data into Google Sheets.
 
