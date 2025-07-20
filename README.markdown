@@ -101,8 +101,12 @@ This project is tailored for freight forwarding companies, specifically handling
 
 ```
 GmailFreightParser/
-├── Code.gs              # Main script (contents of GMAIL FOR DISCORD.txt)
-├── README.md            # This file
+├── Emails                          # All used Emails present here
+├── Multi Route Prices.js           # Appscript Code for sheet named Multi Route Rates
+├── Price Updates File.xlsx         # SpreadSheet Where Data is Stored.
+├── README.markdown                 # This file
+├── Rate Update Structure.js        # Appscript Code for UI Elements Of GoogleSheet
+├── Rate Prices.js                  # Appscript Code for sheet named Rate Updates
 ```
 
 ## Dependencies
