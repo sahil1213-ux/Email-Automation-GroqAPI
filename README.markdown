@@ -151,6 +151,11 @@ GmailFreightParser/
 - **OCR Failures**: If both OCR.space and Google Drive OCR fail, a structured placeholder is returned to allow manual review.
 - **Logging**: All errors are logged using `Logger.log` for debugging.
 
+## GoogleSheet View
+<img width="1851" height="927" alt="Image" src="https://github.com/user-attachments/assets/9312c596-dceb-4ad4-8f0d-78399ac3027e" />
+<img width="1735" height="922" alt="Image" src="https://github.com/user-attachments/assets/ef5db363-6a30-4c39-9fe8-03453f75a01e" />
+<img width="598" height="884" alt="Image" src="https://github.com/user-attachments/assets/4cc9cc2b-19ba-4957-aa47-c01e12965ec7" />
+
 ## Contributing
 
 Contributions are welcome! To contribute:
