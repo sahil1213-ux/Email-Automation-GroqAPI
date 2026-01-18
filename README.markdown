@@ -18,7 +18,7 @@ A Google Apps Script project that automates the extraction of freight forwarding
 
 ## Overview
 
-The **Gmail Freight Parser for Logistics Organisation** is designed to streamline the processing of freight forwarding emails by extracting structured data from email bodies and image attachments (e.g., rate tables). It uses the Groq API for natural language processing and OCR.space for image-to-text conversion, then organizes the extracted data into Google Sheets for further use, such as internal notifications, analytics, or operational reporting.
+The **Gmail Freight Parser for Logistics Operations** is designed to streamline the processing of freight forwarding emails by extracting structured data from email bodies and image attachments (e.g., rate tables). It uses the Groq API for natural language processing and OCR.space for image-to-text conversion, then organizes the extracted data into Google Sheets for further use, such as internal notifications, analytics, or operational reporting.
 
 This project is tailored for freight forwarding companies, specifically handling formats like those from P.D.T Logistics, which include multi-route rate tables with a single origin port and multiple destinations.
 
